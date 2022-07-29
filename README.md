@@ -8,13 +8,19 @@ You can check this in Scratch Website: https://scratch.mit.edu/projects/64410557
 # How To Use
 
 ★ How To Play - Play Video ★
+
 https://www.youtube.com/watch?v=XHjNhCZIZfI
 
 ★ Shortcuts ★
+
 [Left arrow] undo
+
 [right arrow] redo
+
 [down arrow] undo all
+
 [up arrow] redo all
+
 [mouse wheel] undo/redo, you can change each other with settings
 
 ★Notes ★
