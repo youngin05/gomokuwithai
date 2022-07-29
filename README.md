@@ -1,1 +1,1 @@
-# gomokuwithai.github.io
+gomokuwithai.github.io
