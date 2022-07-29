@@ -19,20 +19,22 @@ https://www.youtube.com/watch?v=XHjNhCZIZfI
 - [mouse wheel] undo/redo, you can change each other with settings
 
 ★Notes ★
+
 In settings,
-[Analysis] Show analysis tool
-[Show Index] Show Index on stone
-[Show Forbid] Show black's forbid in renju rule
-[SFX] Sound effect when put move
-[Analysis UI] Show analysis info on board when GWA4 running
-[Conv 100 EV] GWA4 use -10000~10000, change it to 0~100 EV
-[Show Coord] Show coord(1,2,3,... a,b,c,....) on board
-[Navigation] Show arrow button on game tab, it is good for mobile
-[Reverse Scroll] You can undo or redo with mouse scroll, it reverse this (undo and redo)
+- [Analysis] Show analysis tool
+- [Show Index] Show Index on stone
+- [Show Forbid] Show black's forbid in renju rule
+- [SFX] Sound effect when put move
+- [Analysis UI] Show analysis info on board when GWA4 running
+- [Conv 100 EV] GWA4 use -10000~10000, change it to 0~100 EV
+- [Show Coord] Show coord(1,2,3,... a,b,c,....) on board
+- [Navigation] Show arrow button on game tab, it is good for mobile
+- [Reverse Scroll] You can undo or redo with mouse scroll, it reverse this (undo and redo)
 
 # Info
 
 ★ GWA is back! ★
+
 GWA4 is most powerful gomoku&renju engine in Scratch. Play on turbowarp is more good:
 https://turbowarp.org/644105572?fps=60&hqpen
 
